@@ -1,0 +1,19 @@
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model artifacts (uncomment if you don't want to version large binaries)
+# *.h5
+# *.pkl
+# *.joblib
