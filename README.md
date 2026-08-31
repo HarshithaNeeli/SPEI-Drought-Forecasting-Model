@@ -71,7 +71,7 @@ An NSE-weighted ensemble of **Ridge Regression, LightGBM, XGBoost, and SARIMA** 
 
 ## ▶️ How to Run
 
-1. Open `notebooks/SPEI_Drought_Forecasting_Model.ipynb` in [Google Colab](https://colab.research.google.com/).
+1. Open `notebooks/SPEI_Drought_Forecasting_Model.ipynb` in [Google Colab]([https://colab.research.google.com/](https://colab.research.google.com/drive/1y7bx0soLL5PO_bLZXFCOBfbWsYLmZsSD?usp=sharing#scrollTo=gcwx1-FqmDGU)).
 2. Upload `data/dataToHarshitha.csv` when prompted (or place it in the Colab working directory).
 3. Run all cells top to bottom (`Runtime → Run all`).
 4. The forecast CSV and all figures will be generated in the Colab environment — download and place them under `outputs/` if regenerating.
